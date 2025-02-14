@@ -29,4 +29,9 @@ This repository is a place to share the copy of netcdf-4.0.patch.jar in our cach
 to support the aforementioned [Ticket #3160 (repo entry for netcdf/4.0.patch broken: misses the jar file) – OSGeo](https://trac.osgeo.org/osgeo/ticket/3160).
 Attempt to upload netcdf-4.0.patch.jar directly to the ticket failed due to upload file size limit of 585.9 KB there, hence this repository.
 
+Download from:
+
+- <https://raw.githubusercontent.com/Canadian-Geospatial-Platform/netcdf-4.0.patch/main/netcdf-4.0.patch.jar> or
+- <https://canadian-geospatial-platform.github.io/netcdf-4.0.patch/netcdf-4.0.patch.jar>
+
 Cheers!
